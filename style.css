@@ -1,0 +1,206 @@
+.one{
+    color: blue;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+}
+.two{
+    width: 200px;
+    border-radius: 20px;
+}
+.a{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.a:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.two:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.d{
+    width: 300px;
+    border-radius: 20px;
+}
+.e{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.d:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.e:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.f{
+    width: 300px;
+    border-radius: 20px;   
+}
+.g{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.f:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.g:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms; 
+}
+.h{
+    width: 300px;
+    border-radius: 20px;     
+}
+.i{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.h:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.i:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.j{
+    width: 300px;
+    border-radius: 20px;    
+}
+.k{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.j:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.k:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.l{
+    width: 300px;
+    border-radius: 20px;    
+}
+.m{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.l:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.m:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.n{
+    width: 300px;
+    border-radius: 20px;   
+}
+.o{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.n:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.o:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.p{
+    width: 300px;
+    border-radius: 20px;   
+}
+.q{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.p:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.q:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.r{
+    width: 300px;
+    border-radius: 20px;   
+}
+.s{
+    color:blue;
+    background-color: black;
+    width: 100px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.r:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.s:hover{
+    margin-left: 20px;
+    background-color: aqua;
+    transition: 300ms;
+}
+.ab{
+    color: blue;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+}
+body{
+background-color: black;
+}
